@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Notes</string>
+    <string name="app_name">Records</string>
+    <string name="sub_title">What is not recorded is not remembered.</string>
+    <string-array name="filter">
+        <item>Date</item>
+        <item>Collection</item>
+    </string-array>
 </resources>
